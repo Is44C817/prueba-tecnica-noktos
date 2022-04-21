@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+  }
+  
+    .title{
+    color:#3498DB;
+    font-weight: 900;
+    font-size: 2.2rem;
+  }
+  
+
+  .App-header {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+  }
+  
+  tr {
+    border-bottom: 1pt solid #3498DB;
+    }
